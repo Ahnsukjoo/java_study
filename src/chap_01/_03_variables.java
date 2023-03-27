@@ -18,8 +18,8 @@ public class _03_variables {
 
         double d = 3.14123456789;
         float f = 3.14123456789F;
-        System.out.println(d);
         System.out.println(f);
+        System.out.println(d);
 
         long l = 1000000000000L;
         l = 1_000_000_000_000_000L;
